@@ -1,6 +1,8 @@
 appearance:
   default: system
   switcher: true
+deployment:
+  basePath: /jpnestat
 
 theme:
   colorPalettes:
