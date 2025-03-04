@@ -1,0 +1,4 @@
+pandas
+notebook
+git+https://github.com/Zaiwa-linus/e-stat-adaptor.git
+pygwalker
